@@ -42,11 +42,16 @@ POST /chat
 The API will return a response from the generative AI.
 
 This Application is Developed by:
-Name                         Role
-1 Abenezer Gamena         Front-End Developer
-2 Fasil Hawultie          Back-End Developer
-3 Firaif Lenjisa          UI/UX Desinger
-4 Sewasew Tadele          Documentation Specialist
-5 Tinebeb Amsalu          Documentation Specialist
-6 Abel Alemu              Database Developer
+
+
+## Contributors
+
+| Name                | Role                         | GitHub Profile                              |
+|---------------------|------------------------------|---------------------------------------------|
+| Abenezer Gamena     | Front-End Developer          | [Abenezer Gamena](https://github.com/AbenezerGemena) |
+| Fasil Hawultie      | Back-End Developer           | [Fasil Hawultie](https://github.com/Fasill) |
+| Firaif Lenjisa      | UI/UX Designer               | [Firaif Lenjisa](https://github.com/Firalen) |
+| Sewasew Tadele      | Documentation Specialist     | [Sewasew Tadele](https://github.com/sewasewT7) |
+| Tinebeb Amsalu      | Documentation Specialist     | [Tinebeb Amsalu](https://github.com/tinaninna) |
+| Abel Alemu          | Database Developer           | [Abel Alemu](https://github.com/abella88) |
 
