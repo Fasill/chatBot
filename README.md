@@ -4,7 +4,7 @@
 Welcome to the Chatbot mobile app repository. This project contains a Flutter-based mobile application that connects directly to a generative AI API. Optionally, it can use a backend API for extended functionality.
 
 ## Features
-- Direct interaction with the generative AI API.
+- Direct interaction with backend api.
 - Firebase integration for database functionality.
 - Optional backend API integration for extended features.
 
@@ -27,7 +27,7 @@ flutter run
 
 The mobile app connects directly to the generative AI API. Simply open the app and start interacting with the chatbot.
 
-### Optional: Using the Backend API
+###Using the Backend API
 
 The backend API is hosted at: [https://chatbot-vtc9.onrender.com/chat](https://chatbot-vtc9.onrender.com/chat)
 
