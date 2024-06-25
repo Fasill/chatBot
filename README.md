@@ -39,3 +39,11 @@ POST /chat
 }
 ```
 The API will return a response from the generative AI.
+
+This Application is Developed by:
+1 Abenezer Gamena
+2 Fasil Hawultie
+3 Firaif Lenjisa
+4 Sewasew Tadele
+5 Tinebeb Amsalu
+
